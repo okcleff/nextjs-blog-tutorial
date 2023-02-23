@@ -1,4 +1,3 @@
-export {};
 module.exports = {
   plugins:
     process.env.NODE_ENV === "production"
@@ -21,3 +20,5 @@ module.exports = {
           // No transformations in development
         ],
 };
+
+export {};

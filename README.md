@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+- 배포 주소: https://nextjs-tutorial-self-kappa.vercel.app/
